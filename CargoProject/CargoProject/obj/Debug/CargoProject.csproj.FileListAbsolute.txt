@@ -1,0 +1,11 @@
+C:\Users\Yousuf Rakib\OneDrive\Desktop\Task\Task\CargoProject\CargoProject\bin\Debug\CargoProject.exe.config
+C:\Users\Yousuf Rakib\OneDrive\Desktop\Task\Task\CargoProject\CargoProject\bin\Debug\CargoProject.exe
+C:\Users\Yousuf Rakib\OneDrive\Desktop\Task\Task\CargoProject\CargoProject\bin\Debug\CargoProject.pdb
+C:\Users\Yousuf Rakib\OneDrive\Desktop\Task\Task\CargoProject\CargoProject\obj\Debug\CargoProject.csprojAssemblyReference.cache
+C:\Users\Yousuf Rakib\OneDrive\Desktop\Task\Task\CargoProject\CargoProject\obj\Debug\CargoProject.Form1.resources
+C:\Users\Yousuf Rakib\OneDrive\Desktop\Task\Task\CargoProject\CargoProject\obj\Debug\CargoProject.Properties.Resources.resources
+C:\Users\Yousuf Rakib\OneDrive\Desktop\Task\Task\CargoProject\CargoProject\obj\Debug\CargoProject.csproj.GenerateResource.cache
+C:\Users\Yousuf Rakib\OneDrive\Desktop\Task\Task\CargoProject\CargoProject\obj\Debug\CargoProject.csproj.CoreCompileInputs.cache
+C:\Users\Yousuf Rakib\OneDrive\Desktop\Task\Task\CargoProject\CargoProject\obj\Debug\CargoProject.exe
+C:\Users\Yousuf Rakib\OneDrive\Desktop\Task\Task\CargoProject\CargoProject\obj\Debug\CargoProject.pdb
+C:\Users\Yousuf Rakib\OneDrive\Desktop\Task\Task\CargoProject\CargoProject\obj\Debug\CargoProject.Form2.resources
